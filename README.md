@@ -1,4 +1,4 @@
 # MapaBackEnd
 Trabalho realizado para a discilpina de Back End I.
-Constia em desenvolver um site usando HTML, CSS E PHP.
+Foi realizado o desenvolvimento de um site em HTML, CSS E PHP para a uma marmitaria.
 Realizado por Vandré Josimar dos Santos, aluno graduando do Curso Sistemas para Internet da Unicesumar.
